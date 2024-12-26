@@ -3,7 +3,7 @@
 import { motion } from 'framer-motion'
 
 const achievements = [
-  'Granted a patent for "Systems And Methods To Terminate an Active Communication" (US 11,418,646 B1) in August 2022.',
+  'Granted a patent for "Systems And Methods To Terminate an Active Communications" (US 11,418,646 B1) in August 2022.',
   'Reduced processing times by over 50% through performance optimizations at Acquia.',
   'Modernized Cloudera applications by migrating to Snowflake, improving system scalability.',
   'Successfully migrated legacy systems to cloud platforms like AWS and GCP, ensuring enhanced efficiency.',
