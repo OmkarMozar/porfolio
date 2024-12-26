@@ -24,7 +24,7 @@ const About = () => {
           viewport={{ once: true }}
         >
           <p className="mb-4">
-            I'm a highly skilled software engineer with expertise in designing and optimizing scalable systems. 
+            I&apos;m a highly skilled software engineer with expertise in designing and optimizing scalable systems. 
             Proficient in Java, Python, Snowflake, and cloud platforms like AWS and GCP, I have consistently 
             delivered impactful solutions that enhance performance and efficiency.
           </p>
