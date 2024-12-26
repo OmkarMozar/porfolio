@@ -61,7 +61,7 @@ const Contact = () => {
               <FaTwitter size={24} />
             </a>
             <a
-              href="https://drive.google.com/file/d/1vqEzUvbVzHqWvKpzYgmPeyo0djyW8TIF/view?usp=sharing"
+              href="https://drive.google.com/file/d/1zobPxLWNuxyxl1120KkatZEAK-EnpsIa/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-blue-600 text-white p-2 rounded-full hover:bg-blue-700 transition-colors"

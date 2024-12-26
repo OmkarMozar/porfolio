@@ -33,7 +33,7 @@ const Hero = () => {
             <a href="https://stackoverflow.com/users/5250644/omkar-mozar" target="_blank" rel="noopener noreferrer" className="bg-blue-600 text-white p-2 rounded-full hover:bg-blue-700 transition-colors">
               <FaStackOverflow size={24} />
             </a>
-            <a href="https://drive.google.com/file/d/1vqEzUvbVzHqWvKpzYgmPeyo0djyW8TIF/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="bg-blue-600 text-white p-2 rounded-full hover:bg-blue-700 transition-colors">
+            <a href="https://drive.google.com/file/d/1zobPxLWNuxyxl1120KkatZEAK-EnpsIa/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="bg-blue-600 text-white p-2 rounded-full hover:bg-blue-700 transition-colors">
               <FaFileAlt size={24} />
             </a>
           </div>
